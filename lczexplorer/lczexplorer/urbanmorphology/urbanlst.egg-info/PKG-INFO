@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: urbanlst
+Version: 2.0.0
+Summary: CLI tool for annual LCZ mapping and urban morphology analysis using Google Earth Engine, with three classification scenarios.
+Author: Jiyao Zhao
+License: MIT
+Requires-Python: >=3.8
+Requires-Dist: earthengine-api
+Requires-Dist: geemap
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: rasterio
+Requires-Dist: plotly
+Requires-Dist: openpyxl

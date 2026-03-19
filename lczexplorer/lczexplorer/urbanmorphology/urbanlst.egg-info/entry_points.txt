@@ -1,0 +1,2 @@
+[console_scripts]
+urbanlst = urbanlst:cli_main
